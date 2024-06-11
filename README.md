@@ -1,5 +1,5 @@
 # SpaceGame
-Игра сделанная на занятиях курса Algoritmika Python!
+<h2>Игра сделанная на занятиях курса Algoritmika Python!</h2>
 
 ![image](https://github.com/FlickG870/shootergame/assets/172424401/2d200381-dfa8-45c7-89c5-39ee58033898)
 
